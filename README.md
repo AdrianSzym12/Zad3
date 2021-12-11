@@ -84,7 +84,7 @@
                 case "*":
                     if (a == 0 || b == 0)
                     {
-                        Console.WriteLine("Nie można dzielić przez 0!");
+                        Console.WriteLine("Nie można mnożyć przez 0!");
                     }
                     else
                     {
